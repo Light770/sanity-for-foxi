@@ -1,0 +1,155 @@
+[
+  {
+    "_type": "sanity.imageAsset",
+    "_id": "image-highlight-01",
+    "originalFilename": "highlight-01.svg",
+    "label": "Highlight 01 - Project Visibility",
+    "title": "Complete Project Visibility",
+    "description": "Dashboard showing project tracking and analytics",
+    "altText": "Project dashboard with analytics and tracking features",
+    "url": "/src/assets/highlights/highlight-01.svg",
+    "metadata": {
+      "dimensions": {
+        "width": 600,
+        "height": 400,
+        "aspectRatio": 1.5
+      }
+    }
+  },
+  {
+    "_type": "sanity.imageAsset",
+    "_id": "image-highlight-01-mobile",
+    "originalFilename": "highlight-01-mobile.svg",
+    "label": "Highlight 01 Mobile - Project Visibility",
+    "title": "Complete Project Visibility (Mobile)",
+    "description": "Mobile version of project dashboard",
+    "altText": "Mobile project dashboard with analytics and tracking features",
+    "url": "/src/assets/highlights/highlight-01-mobile.svg",
+    "metadata": {
+      "dimensions": {
+        "width": 400,
+        "height": 300,
+        "aspectRatio": 1.33
+      }
+    }
+  },
+  {
+    "_type": "sanity.imageAsset",
+    "_id": "image-highlight-02",
+    "originalFilename": "highlight-02.svg",
+    "label": "Highlight 02 - Advanced Analytics",
+    "title": "Advanced Analytics",
+    "description": "Analytics dashboard with charts and metrics",
+    "altText": "Analytics dashboard showing data visualization and metrics",
+    "url": "/src/assets/highlights/highlight-02.svg",
+    "metadata": {
+      "dimensions": {
+        "width": 600,
+        "height": 400,
+        "aspectRatio": 1.5
+      }
+    }
+  },
+  {
+    "_type": "sanity.imageAsset",
+    "_id": "image-highlight-02-mobile",
+    "originalFilename": "highlight-02-mobile.svg",
+    "label": "Highlight 02 Mobile - Advanced Analytics",
+    "title": "Advanced Analytics (Mobile)",
+    "description": "Mobile version of analytics dashboard",
+    "altText": "Mobile analytics dashboard showing data visualization and metrics",
+    "url": "/src/assets/highlights/highlight-02-mobile.svg",
+    "metadata": {
+      "dimensions": {
+        "width": 400,
+        "height": 300,
+        "aspectRatio": 1.33
+      }
+    }
+  },
+  {
+    "_type": "sanity.imageAsset",
+    "_id": "image-highlight-03",
+    "originalFilename": "highlight-03.svg",
+    "label": "Highlight 03 - Seamless Integrations",
+    "title": "Seamless Integrations",
+    "description": "Integration dashboard showing connected apps and services",
+    "altText": "Integration dashboard with connected applications and services",
+    "url": "/src/assets/highlights/highlight-03.svg",
+    "metadata": {
+      "dimensions": {
+        "width": 600,
+        "height": 400,
+        "aspectRatio": 1.5
+      }
+    }
+  },
+  {
+    "_type": "sanity.imageAsset",
+    "_id": "image-highlight-03-mobile",
+    "originalFilename": "highlight-03-mobile.svg",
+    "label": "Highlight 03 Mobile - Seamless Integrations",
+    "title": "Seamless Integrations (Mobile)",
+    "description": "Mobile version of integration dashboard",
+    "altText": "Mobile integration dashboard with connected applications and services",
+    "url": "/src/assets/highlights/highlight-03-mobile.svg",
+    "metadata": {
+      "dimensions": {
+        "width": 400,
+        "height": 300,
+        "aspectRatio": 1.33
+      }
+    }
+  },
+  {
+    "_type": "sanity.imageAsset",
+    "_id": "image-highlight-04",
+    "originalFilename": "highlight-04.svg",
+    "label": "Highlight 04 - Enterprise Security",
+    "title": "Enterprise Security",
+    "description": "Security dashboard showing protection features and compliance",
+    "altText": "Security dashboard with enterprise protection features and compliance metrics",
+    "url": "/src/assets/highlights/highlight-04.svg",
+    "metadata": {
+      "dimensions": {
+        "width": 600,
+        "height": 400,
+        "aspectRatio": 1.5
+      }
+    }
+  },
+  {
+    "_type": "sanity.imageAsset",
+    "_id": "image-highlight-04-mobile",
+    "originalFilename": "highlight-04-mobile.svg",
+    "label": "Highlight 04 Mobile - Enterprise Security",
+    "title": "Enterprise Security (Mobile)",
+    "description": "Mobile version of security dashboard",
+    "altText": "Mobile security dashboard with enterprise protection features and compliance metrics",
+    "url": "/src/assets/highlights/highlight-04-mobile.svg",
+    "metadata": {
+      "dimensions": {
+        "width": 400,
+        "height": 300,
+        "aspectRatio": 1.33
+      }
+    }
+  },
+  {
+    "_type": "sanity.imageAsset",
+    "_id": "image-testimonial-bg-01",
+    "originalFilename": "testimonial-bg-01.webp",
+    "label": "Testimonial Background 01",
+    "title": "Testimonial Background",
+    "description": "Background image for testimonial section",
+    "altText": "Abstract background pattern for testimonial section",
+    "url": "/src/assets/testimonial-bg-01.webp",
+    "metadata": {
+      "dimensions": {
+        "width": 800,
+        "height": 600,
+        "aspectRatio": 1.33
+      }
+    }
+  }
+]

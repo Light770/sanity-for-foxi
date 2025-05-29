@@ -1,0 +1,41 @@
+[
+  {
+    "_type": "cta",
+    "title": "Ready to Transform Your Workflow?",
+    "text": "Join thousands of teams who trust Foxi to streamline their operations and boost productivity.",
+    "buttonText": "Get Started Free",
+    "buttonLink": "/pricing",
+    "notificationText": "🎉 Special Launch Offer",
+    "badgeText": "30-Day Free Trial",
+    "theme": "dark",
+    "page": "global"
+  },
+  {
+    "_type": "cta",
+    "title": "Experience the Power of Foxi",
+    "text": "Start your free trial today and see why teams choose Foxi for their productivity needs.",
+    "buttonText": "Try Foxi Free",
+    "buttonLink": "/pricing",
+    "badgeText": "No Credit Card Required",
+    "theme": "light",
+    "page": "home"
+  },
+  {
+    "_type": "cta",
+    "title": "Unlock Your Team's Potential",
+    "text": "See how our features can revolutionize the way your team works together.",
+    "buttonText": "View Pricing",
+    "buttonLink": "/pricing",
+    "theme": "dark",
+    "page": "features"
+  },
+  {
+    "_type": "cta",
+    "title": "Questions? We're Here to Help",
+    "text": "Our support team is ready to assist you with any questions about Foxi.",
+    "buttonText": "Contact Support",
+    "buttonLink": "/contact",
+    "theme": "light",
+    "page": "contact"
+  }
+]

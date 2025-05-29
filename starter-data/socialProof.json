@@ -1,0 +1,33 @@
+[
+  {
+    "_type": "socialProof",
+    "trustText": "Trusted by",
+    "businessCount": "50,000+",
+    "logos": [
+      {
+        "platform": "Airtable",
+        "alt": "Airtable logo"
+      },
+      {
+        "platform": "Asana", 
+        "alt": "Asana logo"
+      },
+      {
+        "platform": "Basecamp",
+        "alt": "Basecamp logo"
+      },
+      {
+        "platform": "Evernote",
+        "alt": "Evernote logo"
+      },
+      {
+        "platform": "Notion",
+        "alt": "Notion logo"
+      },
+      {
+        "platform": "Slack",
+        "alt": "Slack logo"
+      }
+    ]
+  }
+]

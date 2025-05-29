@@ -1,0 +1,30 @@
+[
+  {
+    "_type": "siteConfig",
+    "siteTitle": "Foxi. Tailwind CSS Astro Starter Kit by Oxygenna",
+    "siteDescription": "Foxi is a design and development agency that specializes in creating beautiful and functional websites.",
+    "logoAlt": "Foxi. logo",
+    "canonical": true,
+    "noindex": false,
+    "mode": "auto",
+    "scrollAnimations": true,
+    "socialLinks": [
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/foxi"
+      },
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com/foxi"
+      },
+      {
+        "platform": "linkedin",
+        "url": "https://linkedin.com/company/foxi"
+      },
+      {
+        "platform": "discord",
+        "url": "https://discord.gg/foxi"
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "_type": "hero",
+    "title": "Transform Your Workflow with Foxi",
+    "subtitle": "Streamline tasks, boost productivity, and collaborate seamlessly with our all-in-one platform designed for modern teams.",
+    "ctaText": "Get Started Free",
+    "ctaLink": "/pricing",
+    "badge": "🚀 New: AI-Powered Analytics",
+    "socialProof": "Trusted by 10,000+ teams worldwide",
+    "page": "home"
+  },
+  {
+    "_type": "hero",
+    "title": "Get in Touch with Foxi",
+    "subtitle": "Have questions? Need support? Our team is here to help you succeed with Foxi.",
+    "ctaText": "Send Message",
+    "ctaLink": "#contact-form",
+    "page": "contact"
+  },
+  {
+    "_type": "hero",
+    "title": "Why you and your team will love foxi.",
+    "subtitle": "Streamline your tasks, protect your data, and enjoy working with our tools!",
+    "page": "features"
+  },
+  {
+    "_type": "hero",
+    "title": "Choose the plan that works for your needs",
+    "subtitle": "All plans come with a 30-day money-back guarantee.",
+    "page": "pricing"
+  }
+]

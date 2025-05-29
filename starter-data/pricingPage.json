@@ -1,0 +1,17 @@
+[
+  {
+    "_type": "pricingPage",
+    "seo": {
+      "title": "Foxi | Pricing made simple",
+      "description": "Discover the perfect SaaS pricing plan for your business. From startups to enterprises, our scalable solutions offer unparalleled features and 24/7 support."
+    },
+    "header": {
+      "title": "Choose the plan that works for <strong>your</strong> needs",
+      "text": "All plans come with a 30-day money-back guarantee."
+    },
+    "showFeatures": true,
+    "testimonialBackgroundPosition": "left",
+    "showFAQ": true,
+    "faqBackgroundClass": "bg-slate-50 dark:bg-neutral-900/40"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "name": "foxi-sanity",
+  "private": true,
+  "version": "1.0.0",
+  "main": "package.json",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "sanity dev",
+    "start": "sanity start", 
+    "build": "sanity build --no-auto-updates",
+    "deploy": "sanity deploy",
+    "deploy-graphql": "sanity graphql deploy",
+    "convert-data": "node convert-to-ndjson.js",
+    "import-data": "node import-all-data.js",
+    "import-type": "node import-by-type.js",
+    "import-faq": "node import-by-type.js faq",
+    "import-features": "node import-by-type.js feature",
+    "import-feature-cards": "node import-by-type.js featureCard",
+    "import-blog": "node import-by-type.js blog",
+    "import-testimonials": "node import-by-type.js testimonial",
+    "import-heroes": "node import-by-type.js hero",
+    "import-ctas": "node import-by-type.js cta",
+    "import-pricing": "node import-by-type.js pricingPlan",
+    "import-changelog": "node import-by-type.js changelog",
+    "import-social-proof": "node import-by-type.js socialProof",
+    "import-site-config": "node import-by-type.js siteConfig",
+    "import-home": "node import-by-type.js home",
+    "list-types": "node import-by-type.js --list",
+    "typegen": "sanity typegen generate --output ../foxi-astro-theme/src/lib/sanity/types.ts"
+  },
+  "keywords": [
+    "sanity"
+  ],
+  "dependencies": {
+    "@sanity/client": "^6.29.1",
+    "@sanity/vision": "^3.88.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sanity": "^3.88.3",
+    "styled-components": "^6.1.15"
+  },
+  "devDependencies": {
+    "@sanity/eslint-config-studio": "^5.0.2",
+    "@sanity/types": "^3.88.3",
+    "@types/react": "^18.0.25",
+    "eslint": "^9.9.0",
+    "prettier": "^3.0.2",
+    "typescript": "^5.1.6"
+  },
+  "prettier": {
+    "semi": false,
+    "printWidth": 100,
+    "bracketSpacing": false,
+    "singleQuote": true
+  }
+}

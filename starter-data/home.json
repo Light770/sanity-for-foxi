@@ -1,0 +1,112 @@
+[
+  {
+    "_type": "home",
+    "_id": "home-page",
+    "seo": {
+      "title": "Foxi | Your Productivity Toolkit",
+      "description": "Foxi is a powerful productivity toolkit designed to enhance your workflow and boost your productivity. With features like analytics, security, and integrations, Foxi is the perfect solution for your business."
+    },
+    "hero": {
+      "_type": "reference",
+      "_ref": "hero-home"
+    },
+    "socialProof": {
+      "_type": "reference",
+      "_ref": "social-proof-main"
+    },
+    "featuredTestimonial": {
+      "_type": "reference",
+      "_ref": "testimonial-featured"
+    },
+    "testimonialBackground": {
+      "_type": "image",
+      "asset": {
+        "_type": "reference",
+        "_ref": "image-testimonial-bg-01"
+      }
+    },
+    "testimonialBackgroundPosition": "right",
+    "highlightBlocks": [
+      {
+        "heading": "Complete Project <strong>Visibility</strong>",
+        "text": "Gain complete visibility into your projects and tasks with our comprehensive dashboard. Easily track progress, deadlines, and team performance at a glance. Our dashboard offers real-time project tracking",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_type": "reference",
+            "_ref": "image-highlight-01"
+          }
+        },
+        "mobileImage": {
+          "_type": "image",
+          "asset": {
+            "_type": "reference",
+            "_ref": "image-highlight-01-mobile"
+          }
+        },
+        "order": 1
+      },
+      {
+        "heading": "Advanced <strong>Analytics</strong>",
+        "text": "Make data-driven decisions with our powerful analytics suite. Track key metrics, identify trends, and optimize your workflow for maximum efficiency. Get insights that matter for your business growth.",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_type": "reference",
+            "_ref": "image-highlight-02"
+          }
+        },
+        "mobileImage": {
+          "_type": "image",
+          "asset": {
+            "_type": "reference",
+            "_ref": "image-highlight-02-mobile"
+          }
+        },
+        "order": 2
+      },
+      {
+        "heading": "Seamless <strong>Integrations</strong>",
+        "text": "Connect with your favorite tools and platforms effortlessly. Our extensive integration library ensures your workflow remains uninterrupted while adding powerful new capabilities to your existing setup.",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_type": "reference",
+            "_ref": "image-highlight-03"
+          }
+        },
+        "mobileImage": {
+          "_type": "image",
+          "asset": {
+            "_type": "reference",
+            "_ref": "image-highlight-03-mobile"
+          }
+        },
+        "order": 3
+      },
+      {
+        "heading": "Enterprise <strong>Security</strong>",
+        "text": "Keep your data safe with enterprise-grade security measures. We implement the latest security protocols, encryption standards, and compliance requirements to protect your valuable information.",
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_type": "reference",
+            "_ref": "image-highlight-04"
+          }
+        },
+        "mobileImage": {
+          "_type": "image",
+          "asset": {
+            "_type": "reference",
+            "_ref": "image-highlight-04-mobile"
+          }
+        },
+        "order": 4
+      }
+    ],
+    "cta": {
+      "_type": "reference",
+      "_ref": "cta-home"
+    }
+  }
+]

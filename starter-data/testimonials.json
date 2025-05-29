@@ -1,0 +1,52 @@
+[
+  {
+    "_type": "testimonial",
+    "quote": "Foxi isn't just an app—it's like having a mischievous yet brilliant sidekick for your business. It streamlines tasks and also cracks jokes to keep spirits high",
+    "author": "Max Widgetson",
+    "role": "CEO",
+    "company": "Widgetify Ltd",
+    "rating": 5,
+    "featured": true,
+    "order": 1
+  },
+  {
+    "_type": "testimonial",
+    "quote": "Since implementing Foxi, our team productivity has increased by 40%. The intuitive interface and powerful features make complex tasks feel effortless.",
+    "author": "Sarah Chen",
+    "role": "Project Manager",
+    "company": "TechFlow Solutions",
+    "rating": 5,
+    "featured": true,
+    "order": 2
+  },
+  {
+    "_type": "testimonial",
+    "quote": "The analytics dashboard in Foxi gives us insights we never had before. It's transformed how we make data-driven decisions.",
+    "author": "Marcus Rodriguez",
+    "role": "Data Analyst",
+    "company": "Insight Corp",
+    "rating": 5,
+    "featured": false,
+    "order": 3
+  },
+  {
+    "_type": "testimonial",
+    "quote": "Customer support is exceptional. They responded to our integration questions within minutes and provided detailed solutions.",
+    "author": "Emily Watson",
+    "role": "CTO",
+    "company": "StartupHub",
+    "rating": 5,
+    "featured": false,
+    "order": 4
+  },
+  {
+    "_type": "testimonial",
+    "quote": "Foxi's API integration capabilities are outstanding. We connected all our tools seamlessly and automated our entire workflow.",
+    "author": "David Kim",
+    "role": "Lead Developer",
+    "company": "CodeCraft Inc",
+    "rating": 4,
+    "featured": false,
+    "order": 5
+  }
+]
