@@ -27,3 +27,12 @@
 
 # Dotenv and similar local-only files
 *.local
+
+.env
+cleanup-pricing-duplicates.js
+import-pricing-data.js
+import-config-data.js
+notes.md
+GUIDE-PAGE-TARIFICATION.md
+sanity-rework-plan.md
+update-pricing-page.js

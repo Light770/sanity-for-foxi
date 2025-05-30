@@ -17,6 +17,11 @@ import contact from './contact'
 import highlightBlock from './highlightBlock'
 import featuresPage from './featuresPage'
 import faqPage from './faqPage'
+// Configuration schemas
+import analyticsConfig from './analyticsConfig'
+import navigationConfig from './navigationConfig'
+import footerConfig from './footerConfig'
+import socialLinksConfig from './socialLinksConfig'
 // import pageContent from './pageContent'
 
 export const schemaTypes = [
@@ -39,5 +44,10 @@ export const schemaTypes = [
   highlightBlock,
   featuresPage,
   faqPage,
+  // Configuration schemas
+  analyticsConfig,
+  navigationConfig,
+  footerConfig,
+  socialLinksConfig,
   // pageContent
 ]

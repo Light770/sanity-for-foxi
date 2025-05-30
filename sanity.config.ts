@@ -77,9 +77,46 @@ S.listItem()
             S.listItem()
               .title('Configuration')
               .child(
-                S.document()
-                  .schemaType('siteConfig')
-                  .documentId('siteConfig') // Assuming 'siteConfig' is a singleton document
+                S.list()
+                  .title('Configuration')
+                  .items([
+                    S.listItem()
+                      .title('Configuration du site')
+                      .child(
+                        S.document()
+                          .schemaType('siteConfig')
+                          .documentId('siteConfig')
+                      ),
+                    S.divider(),
+                    S.listItem()
+                      .title('Configuration Analytics')
+                      .child(
+                        S.document()
+                          .schemaType('analyticsConfig')
+                          .documentId('analyticsConfig')
+                      ),
+                    S.listItem()
+                      .title('Configuration Navigation')
+                      .child(
+                        S.document()
+                          .schemaType('navigationConfig')
+                          .documentId('navigationConfig')
+                      ),
+                    S.listItem()
+                      .title('Configuration Footer')
+                      .child(
+                        S.document()
+                          .schemaType('footerConfig')
+                          .documentId('footerConfig')
+                      ),
+                    S.listItem()
+                      .title('Configuration Réseaux Sociaux')
+                      .child(
+                        S.document()
+                          .schemaType('socialLinksConfig')
+                          .documentId('socialLinksConfig')
+                      ),
+                  ])
               ),
             // Add a catch-all for documents that haven't been explicitly placed
             ...S.documentTypeListItems().filter(listItem => ![
@@ -102,6 +139,10 @@ S.listItem()
               'siteConfig',
               'featuresPage',
               'faqPage',
+              'analyticsConfig',
+              'navigationConfig',
+              'footerConfig',
+              'socialLinksConfig',
             ].includes(listItem.getId() as string)) // Cast to string after confirming it's not undefined
           ])
     }),

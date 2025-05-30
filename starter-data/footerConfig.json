@@ -1,0 +1,104 @@
+[
+  {
+    "_id": "footerConfig",
+    "_type": "footerConfig",
+    "footerAbout": {
+      "title": "Foxi.",
+      "aboutText": "Expertly made, responsive, accessible components in React and HTML ready to be used on your website or app. Just copy and paste them on your Tailwind CSS project.",
+      "logo": {
+        "image": {
+          "_type": "image",
+          "asset": {
+            "_type": "reference",
+            "_ref": "image-logo-svg"
+          }
+        },
+        "alt": "The tailwind astro theme",
+        "text": "Foxi."
+      }
+    },
+    "footerColumns": [
+      {
+        "category": "Product",
+        "subCategories": [
+          {
+            "subCategory": "Features",
+            "subCategoryLink": "/features",
+            "openInNewTab": false
+          },
+          {
+            "subCategory": "FAQ",
+            "subCategoryLink": "/faq",
+            "openInNewTab": false
+          },
+          {
+            "subCategory": "Pricing",
+            "subCategoryLink": "/pricing",
+            "openInNewTab": false
+          },
+          {
+            "subCategory": "Changelog",
+            "subCategoryLink": "/changelog",
+            "openInNewTab": false
+          },
+          {
+            "subCategory": "Terms",
+            "subCategoryLink": "/terms",
+            "openInNewTab": false
+          }
+        ],
+        "order": 1
+      },
+      {
+        "category": "About us",
+        "subCategories": [
+          {
+            "subCategory": "About us",
+            "subCategoryLink": "/",
+            "openInNewTab": false
+          },
+          {
+            "subCategory": "News",
+            "subCategoryLink": "/blog",
+            "openInNewTab": false
+          },
+          {
+            "subCategory": "Careers",
+            "subCategoryLink": "/blog",
+            "openInNewTab": false
+          }
+        ],
+        "order": 2
+      },
+      {
+        "category": "Get in touch",
+        "subCategories": [
+          {
+            "subCategory": "Contact",
+            "subCategoryLink": "/contact",
+            "openInNewTab": false
+          },
+          {
+            "subCategory": "Support",
+            "subCategoryLink": "/contact",
+            "openInNewTab": false
+          },
+          {
+            "subCategory": "Join us",
+            "subCategoryLink": "/contact",
+            "openInNewTab": false
+          }
+        ],
+        "order": 3
+      }
+    ],
+    "subFooter": {
+      "copywriteText": "© Foxi 2024.",
+      "additionalLinks": []
+    },
+    "footerSettings": {
+      "showSocialLinks": true,
+      "backgroundColor": "default"
+    }
+  }
+]

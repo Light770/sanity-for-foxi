@@ -1,0 +1,46 @@
+[
+  {
+    "_id": "socialLinksConfig",
+    "_type": "socialLinksConfig",
+    "socialLinks": [
+      {
+        "platform": "facebook",
+        "url": "https://facebook.com",
+        "icon": "fb-icon",
+        "displayName": "Facebook",
+        "openInNewTab": true,
+        "isActive": true,
+        "order": 1
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com",
+        "icon": "twitter-icon",
+        "displayName": "Twitter",
+        "openInNewTab": true,
+        "isActive": true,
+        "order": 2
+      },
+      {
+        "platform": "discord",
+        "url": "https://discord.com",
+        "icon": "discord-icon",
+        "displayName": "Discord",
+        "openInNewTab": true,
+        "isActive": true,
+        "order": 3
+      }
+    ],
+    "displaySettings": {
+      "showInHeader": false,
+      "showInFooter": true,
+      "showLabels": false,
+      "iconSize": "md",
+      "style": "simple"
+    },
+    "seoSettings": {
+      "addNofollow": false,
+      "addNoopener": true
+    }
+  }
+]

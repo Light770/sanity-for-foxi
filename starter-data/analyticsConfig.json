@@ -1,0 +1,11 @@
+[
+  {
+    "_id": "analyticsConfig",
+    "_type": "analyticsConfig",
+    "googleSiteVerification": "",
+    "googleAnalyticsMeasurementID": "G-6JT3PTTD25",
+    "googleTagManagerID": "",
+    "enableAnalytics": true,
+    "cookieConsent": true
+  }
+]
